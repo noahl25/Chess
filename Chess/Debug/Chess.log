@@ -1,5 +1,0 @@
-﻿  Chess.cpp
-C:\Users\noahl\source\repos\Chess\Chess\Tile.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\noahl\source\repos\Chess\Chess\Chess.cpp(146,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\noahl\source\repos\Chess\Chess\Chess.cpp(147,22): warning C4018: '<': signed/unsigned mismatch
-  Chess.vcxproj -> C:\Users\noahl\source\repos\Chess\Debug\Chess.exe
