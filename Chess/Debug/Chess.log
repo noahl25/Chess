@@ -1,6 +1,0 @@
-﻿  Board.cpp
-C:\Users\noahl\source\repos\Chess\Chess\Board.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\noahl\source\repos\Chess\Chess\Tile.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\noahl\source\repos\Chess\Chess\Board.cpp(675,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\noahl\source\repos\Chess\Chess\Board.cpp(676,21): warning C4018: '<': signed/unsigned mismatch
-  Chess.vcxproj -> C:\Users\noahl\source\repos\Chess\Debug\Chess.exe
