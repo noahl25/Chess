@@ -1,0 +1,4 @@
+﻿  Chess.cpp
+C:\Users\noahl\source\repos\Chess\Chess\Chess.cpp(155,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\noahl\source\repos\Chess\Chess\Chess.cpp(156,22): warning C4018: '<': signed/unsigned mismatch
+  Chess.vcxproj -> C:\Users\noahl\source\repos\Chess\Debug\Chess.exe
